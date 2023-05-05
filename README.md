@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student currently pursuing my Bachelor's degree in Information Technology.<br>I am an Android development enthusiast person and also do DSA.<br> I have participated in online as well as also attended offline hackathons and have a good experience in project building. <br>I am currently looking for a job to gain experience in technical field .<br><br>I am a very keen person and always open for new opportunities which will help me to grow my career.
+~ I am a student currently pursuing my Bachelor's degree in Information Technology.<br>~ I am an Android development enthusiast person and also do DSA.<br>~ I have participated in online as well as also attended offline hackathons and have a good experience in project building. <br>~ I am currently looking for a job to gain experience in technical field .<br><br>~ I am a very keen person and always open for new opportunities which will help me to grow my career.
 
 
 ## 🌐 Socials:
