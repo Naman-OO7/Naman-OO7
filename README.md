@@ -1,65 +1,17 @@
-# Hi 👋, I'm **Naman Singh**
+# 💫 About Me:
+~ I am a Technical Professional completed my Bachelor's degree in Information Technology.<br>~ I am an Android development and UX UI Designing enthusiast person and also have a keen knowledge of development.<br>~ I have participated in online as well as also attended offline hackathons and have a good experience in project building. <br>~ I am currently looking for a job to gain experience in technical field .<br><br>~ I am a very keen person and always open for new opportunities which will help me to grow my career.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Naman%20Singh&color=gradient"/></p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&center=true&width=800&lines=AI+%7C+MERN+Stack+Developer;UI%2FUX+Designer;Frontend+Developer;Always+Learning+Something+New"/></p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Naman Singh#3625) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011719037828&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/naive_naman?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naman-singh-596144213) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21780059/naman-singh) 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Naman-OO7&label=Profile%20Views&style=for-the-badge"/></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naman-OO7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naman-OO7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I'm **Naman Singh**, an **AI MERN Stack Developer Intern at Digital Byte Solutions** passionate about AI, MERN Stack, UI/UX and modern software engineering.
-
-- 💼 AI MERN Stack Developer Intern – Digital Byte Solutions
-- 🎨 UI/UX Designer & Front-End Developer
-- 🎓 B.Tech IT (CGPA 8.5)
-- 🤖 Learning LLMs, RAG, Agentic AI
-- 📫 naman.2024it1142@kiet.edu
-
-## 💻 Tech Stack
-
-React • Node.js • Express • MongoDB • JavaScript • Python • Java • HTML • CSS • Tailwind • Firebase • MySQL • Git • GitHub • Figma • Blender • OpenAI • Gemini • Claude • Mistral AI
-
-## 🏆 Experience
-
-- AI MERN Stack Developer Intern — Digital Byte Solutions
-- UI/UX Designer & Developer — AK Software & Services
-- Frontend Developer Intern — Devsnest
-
-## 🌟 Featured Projects
-
-Explore all projects here:
-https://github.com/Naman-OO7?tab=repositories
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naman-OO7&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&layout=compact&theme=tokyonight)
-
-## 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Naman-OO7&theme=tokyonight&row=2&column=4)
-
-## 🐍 Snake
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-## 🎯 Goals
-
-- Build AI SaaS
-- Master MERN
-- Open Source
-- Cloud & Kubernetes
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/naman-singh-596144213
-- GitHub: https://github.com/Naman-OO7
-- Email: naman.2024it1142@kiet.edu
-
-> Code • Create • Learn • Repeat
