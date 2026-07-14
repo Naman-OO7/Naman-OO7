@@ -24,10 +24,21 @@ Welcome back, Naman Singh.
 System Status : ONLINE
 Current Mission : Building AI-Powered Software
 
-<br>
-<br>
+<p align="center">
 
-# R.A.Y.A.
+<img src="divider.png" width="100%"/>
+
+</p>
+
+<br>
+<br>
+<h1 align="center">
+
+<img src="raya-logo.png" width="42"/>
+
+R.A.Y.A.
+
+</h1>
 
 ### **Real-time AI Yielding Assistance**
 
