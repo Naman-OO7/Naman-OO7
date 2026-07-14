@@ -1,17 +1,110 @@
-# 💫 About Me:
-~ I am a Technical Professional completed my Bachelor's degree in Information Technology.<br>~ I am an Android development and UX UI Designing enthusiast person and also have a keen knowledge of development.<br>~ I have participated in online as well as also attended offline hackathons and have a good experience in project building. <br>~ I am currently looking for a job to gain experience in technical field .<br><br>~ I am a very keen person and always open for new opportunities which will help me to grow my career.
+<!-- ========================================================= -->
+<!--                     R.A.Y.A. INIT                         -->
+<!-- ========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Naman Singh#3625) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011719037828&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/naive_naman?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naman-singh-596144213) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21780059/naman-singh) 
+<img src="assets/hero-banner.svg" width="100%" alt="R.A.Y.A Hero Banner"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naman-OO7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naman-OO7&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# R.A.Y.A.
 
+### **Real-time AI Yielding Assistance**
+
+*A premium AI companion that introduces visitors to my world of software engineering, intelligent systems, and continuous innovation.*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Analyzing+Developer+Profile...;Projects+Indexed...;Technical+Capabilities+Loaded...;Mission+Status:+READY." />
+
+</div>
+
+---
+
+> ### 🤖 R.A.Y.A. System Message
+>
+> **Good to see you.**
+>
+> I've successfully analyzed the profile of **Naman Singh**.
+>
+> Naman is currently working as an **AI MERN Stack Developer Intern** at **Digital Byte Solutions**, where he builds intelligent web applications, explores modern AI technologies, and continuously improves his engineering skills.
+>
+> This profile is organized as a mission archive—a collection of projects, experiments, and ideas that reflect curiosity, creativity, and a passion for building meaningful software.
+>
+> **Mission Status:** 🟢 Active
+
+---
+
+# 👋 Hello, I'm Naman Singh
+
+### AI MERN Stack Developer • Full Stack Enthusiast • UI/UX Designer
+
+> **"Building intelligent digital experiences, one project at a time."**
+
+I'm passionate about creating software that solves real-world problems while delivering exceptional user experiences.
+
+My journey began with Android Development and UI/UX Design, gradually expanding into Full Stack Development, Artificial Intelligence, and modern software engineering.
+
+Today, I enjoy combining creativity with engineering to build scalable applications that are not only functional but also intuitive and impactful.
+
+---
+
+## ⚡ Current Mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Developer          : Naman Singh
+
+Current Role       : AI MERN Stack Developer Intern
+
+Organization       : Digital Byte Solutions
+
+Primary Stack      : MERN + AI
+
+Current Focus      : Intelligent Web Applications
+
+Learning           : Agentic AI • RAG • System Design
+
+Mission Status     : 🟢 ONLINE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+### "The future belongs to developers who can combine intelligence, creativity, and technology into experiences people genuinely enjoy using."
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:naman.2024it1142@kiet.edu">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naman-singh-596144213">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naman-OO7">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🚀 Scroll down to explore the Mission Archive.
+
+</div>
