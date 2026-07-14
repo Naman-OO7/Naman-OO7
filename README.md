@@ -1,746 +1,247 @@
-<!-- ========================================================= -->
-<!--                     R.A.Y.A. INIT                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="hero-banner.png" width="100%" alt="R.A.Y.A Hero Banner"/>
+<img src="hero-banner.png" width="100%" alt="Naman Singh — AI MERN Stack Developer"/>
 
-<br>
-<br>
+<br/>
 
-INITIALIZING R.A.Y.A...
+<img src="raya-logo.png" width="48"/>
 
-████████████████████████████████ 100%
+# Naman Singh
 
-✓ Neural Core Activated
-✓ Mission Archive Loaded
-✓ System Modules Online
-✓ Analytics Synchronized
-✓ Communication Channel Connected
+### AI-Focused MERN Stack Developer
 
-Welcome back, Naman Singh.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=19&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=680&lines=Building+intelligent%2C+scalable+web+applications;AI+MERN+Stack+Developer+Intern+%40+Digital+Byte+Solutions;Full-Stack+Development+%2B+Applied+AI+%2B+UI%2FUX" alt="Typing SVG"/>
 
-System Status : ONLINE
-Current Mission : Building AI-Powered Software
+<br/>
 
-<p align="center">
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:naman.2024it1142@kiet.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/naman-singh-596144213)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-OO7)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/naive_naman)
+
+<br/>
+
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-8B5CF6?style=flat-square&labelColor=0A0A0A)
+![Based in India](https://img.shields.io/badge/Based%20in-India-06B6D4?style=flat-square&labelColor=0A0A0A)
+![Profile Views](https://komarev.com/ghpvc/?username=Naman-OO7&style=flat-square&color=8B5CF6&label=Profile+Views)
+
+</div>
 
 <img src="divider.png" width="100%"/>
 
-</p>
+## About Me
 
-<br>
-<br>
-<h1 align="center">
+I'm an AI MERN Stack Developer Intern at **Digital Byte Solutions**, building full-stack web applications with an increasing focus on AI-integrated systems. My background spans Android development and UI/UX design before moving into full-stack engineering and applied AI — I care about writing production-quality code and designing experiences that are genuinely easy to use.
 
-<img src="raya-logo.png" width="42"/>
+I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generation (RAG), and system design**, with the goal of building software that combines technical rigor with real usability.
 
-R.A.Y.A.
+- 🔭 Currently building AI-powered web applications on the MERN stack
+- 🌱 Currently learning Agentic AI, RAG, System Design, and Docker
+- 💬 Ask me about React, Node.js, MERN architecture, or applied LLM integration
+- 📫 Reach me at **naman.2024it1142@kiet.edu**
 
-</h1>
+<img src="divider.png" width="100%"/>
 
-### **Real-time AI Yielding Assistance**
-
-*A premium AI companion that introduces visitors to my world of software engineering, intelligent systems, and continuous innovation.*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Analyzing+Developer+Profile...;Projects+Indexed...;Technical+Capabilities+Loaded...;Mission+Status:+READY." />
-
-</div>
----
-
-# 👋 Hello, I'm Naman Singh
-
-### AI MERN Stack Developer • Full Stack Enthusiast • UI/UX Designer
-
-> **"Building intelligent digital experiences, one project at a time."**
-
-I'm passionate about creating software that solves real-world problems while delivering exceptional user experiences.
-
-My journey began with Android Development and UI/UX Design, gradually expanding into Full Stack Development, Artificial Intelligence, and modern software engineering.
-
-Today, I enjoy combining creativity with engineering to build scalable applications that are not only functional but also intuitive and impactful.
-
----
-
-## ⚡ Current Mission
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Developer          : Naman Singh
-
-Current Role       : AI MERN Stack Developer Intern
-
-Organization       : Digital Byte Solutions
-
-Primary Stack      : MERN + AI
-
-Current Focus      : Intelligent Web Applications
-
-Learning           : Agentic AI • RAG • System Design
-
-Mission Status     : 🟢 ONLINE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
+## Snapshot
 
 <div align="center">
-
-### "The future belongs to developers who can combine intelligence, creativity, and technology into experiences people genuinely enjoy using."
-
+<img src="glass-grid.png" width="85%" alt="R.A.Y.A. profile summary card"/>
 </div>
 
-# 📡 Communication Channel
+<img src="divider.png" width="100%"/>
 
-> R.A.Y.A. has established secure communication links.
+## Tech Stack
 
-<p align="center">
-
-<a href="mailto:naman.2024it1142@kiet.edu">
-<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naman-singh-596144213">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://github.com/Naman-OO7">
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/naive_naman">
-<img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-</p>
-
----
-
-<br>
-
-<div align="center">
-
-### 🚀 Scroll down to explore the Mission Archive.
-
-</div>
-
-<!-- ========================================================= -->
-<!--                   MISSION ARCHIVE                         -->
-<!-- ========================================================= -->
-
-# 🚀 Mission Archive
-
-> **R.A.Y.A. Report**
->
-> I've indexed the projects completed by Naman.
->
-> Each mission represents a real-world challenge solved through engineering, design thinking, and continuous learning.
->
-> More missions are continuously being deployed.
-
----
-
-<table>
-
+<table align="center">
 <tr>
+<td valign="top" width="33%">
 
-<td width="50%">
+**Languages**
 
-## 🎯 Student Attendance System
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
 
-### Mission Objective
+</td>
+<td valign="top" width="33%">
 
-Design and develop a modern attendance management platform that simplifies attendance tracking while improving accessibility and user experience.
+**Frameworks & Backend**
 
-**Highlights**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
 
-- Full Stack Development
-- Modern UI/UX
-- Database Integration
-- Authentication
-- Responsive Design
+</td>
+<td valign="top" width="33%">
 
-**Technology**
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="neural-core.png" width="220" alt="Applied AI"/>
+</div>
+
+<div align="center">
+
+**Applied AI**
+
+`Prompt Engineering` · `LLM Integration` · `OpenAI API` · `Gemini API` · `Mistral AI` · `Agentic AI (Learning)` · `RAG (Learning)`
+
+</div>
+
+<div align="center">
+
+**Design & Tooling**
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,npm,postman"/>
+
+<br/>
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+<img src="divider.png" width="100%"/>
+
+## Experience
+
+<table align="center" width="100%">
+<tr>
+<td width="15%" align="center"><b>Current</b></td>
+<td width="85%">
+
+**AI MERN Stack Developer Intern** — Digital Byte Solutions · India
+
+Building AI-integrated web applications on the MERN stack in a collaborative team environment.
+
+- Developing full-stack MERN applications end to end
+- Integrating REST APIs and third-party services
+- Designing responsive, accessible user interfaces
+- Applying prompt engineering and LLM integration in production features
+- Working within Git/GitHub-based team workflows
+
+</td>
+</tr>
+</table>
+
+<img src="divider.png" width="100%"/>
+
+## Education
+
+**Bachelor of Technology — Information Technology**
+
+Focus areas: Software Engineering, Artificial Intelligence, Web Development, UI/UX Design.
+
+<img src="divider.png" width="100%"/>
+
+## Featured Project
+
+<div align="center">
+<img src="project-card.png" width="90%" alt="R.A.Y.A. Core project card"/>
+</div>
+
+<br/>
+
+## Other Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Attendance System
+Full-stack attendance management platform with authentication, database integration, and a responsive UI.
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 **Repository:** *(Add Repository Link)*
+</td>
+<td width="50%" valign="top">
+
+### 📱 Android Development
+Android applications built with a focus on clean architecture and Material Design.
+
+`Java` `Firebase` `XML`
 
 </td>
-
-<td width="50%">
-
-## 🤖 AI Projects
-
-### Mission Objective
-
-Building intelligent applications powered by modern AI technologies while exploring prompt engineering, LLM integrations, and automation workflows.
-
-**Highlights**
-
-- Prompt Engineering
-- AI Integration
-- Automation
-- APIs
-- Intelligent Workflows
-
-**Technology**
-
-`Python`
-`OpenAI`
-`Mistral`
-`Gemini`
-`JavaScript`
-
-🔗 **Repository:** *(Add Repository Link)*
-
-</td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎨 UI / UX Design
+Digital product design work spanning research, wireframing, and high-fidelity prototyping.
 
-## 📱 Android Development
-
-### Mission Objective
-
-Creating Android applications focused on usability, clean architecture, and intuitive user experiences.
-
-**Highlights**
-
-- Android Studio
-- Firebase
-- Material Design
-- Mobile UI
-
-**Technology**
-
-`Java`
-`Firebase`
-`XML`
-
-🔗 **Repository:** *(Add Repository Link)*
+`Figma` `Adobe XD` `Canva`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Applied AI Experiments
+Small-scale projects exploring prompt engineering, LLM integration, and automation workflows.
 
-## 🎨 UI / UX Design
-
-### Mission Objective
-
-Designing digital products with a focus on accessibility, usability, visual hierarchy, and delightful user experiences.
-
-**Highlights**
-
-- User Research
-- Wireframing
-- High Fidelity UI
-- Prototyping
-
-**Technology**
-
-`Figma`
-`Adobe XD`
-`Canva`
-
-🔗 **Repository:** *(Portfolio Coming Soon)*
+`Python` `OpenAI` `Gemini` `Mistral`
 
 </td>
-
 </tr>
-
 </table>
 
----
+<img src="divider.png" width="100%"/>
 
-# 🛰 Mission Statistics
+## Currently Learning
 
-```text
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Active-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
+![RAG](https://img.shields.io/badge/RAG%20Systems-Active-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
+![System Design](https://img.shields.io/badge/System%20Design-Active-06B6D4?style=for-the-badge&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-Learning-64748B?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0A0A0A)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-Learning-64748B?style=for-the-badge&labelColor=0A0A0A)
 
-Projects Completed
+<img src="divider.png" width="100%"/>
 
-███████████████████
-
-AI Experiments
-
-████████████████████████
-
-UI/UX Designs
-
-████████████████
-
-Hackathons
-
-██████████████
-
-Continuous Learning
-
-████████████████████████████
-
-```
-
----
-
-# 🌟 Featured Mission
-
-> **Mission Codename**
->
-> **R.A.Y.A. Recommendation**
->
-> The **Student Attendance System** represents one of the strongest examples of combining software engineering with practical problem solving.
->
-> It demonstrates full-stack architecture, authentication, database management, and user-centered design in a single project.
-
----
+## GitHub Analytics
 
 <div align="center">
-
-## 📂 More missions are available inside my repositories.
-
-**Every repository represents another step in my journey as an engineer.**
-
+<img src="analytics-frame.png" width="70%" alt=""/>
 </div>
 
----
-<!-- ========================================================= -->
-<!--                    SYSTEM MODULES                         -->
-<!-- ========================================================= -->
-
-# ⚙️ System Modules
-
-> ### 🤖 R.A.Y.A. Capability Report
->
-> Technical capabilities successfully indexed.
->
-> Naman focuses on building complete software solutions by combining Artificial Intelligence, Full Stack Development, UI/UX Design, and modern development practices.
->
-> **Current Engineering Status:** 🟢 Active Learning Mode
-
----
+<br/>
 
 <div align="center">
-
-| 🤖 Artificial Intelligence | 🌐 Full Stack Development | 🎨 UI / UX Design |
-|:--------------------------:|:-------------------------:|:-----------------:|
-| Prompt Engineering | MERN Stack | Figma |
-| Agentic AI | React.js | Adobe XD |
-| LLM Applications | Node.js | Canva |
-| RAG (Learning) | Express.js | User Research |
-| Mistral AI | MongoDB | Wireframing |
-| OpenAI APIs | REST APIs | Prototyping |
-| Gemini API | Authentication | Design Systems |
-
-</div>
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
-
-</p>
-
----
-
-## 🚀 Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-</p>
-
----
-
-## 🗄 Database Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-</p>
-
----
-
-## 🎨 Design & Creative Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,blender" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-
-</p>
-
----
-
-## 🛠 Development Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman" />
-
-</p>
-
----
-
-## 📡 Currently Exploring
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✓ Agentic AI
-
-✓ Retrieval Augmented Generation (RAG)
-
-✓ AI Automation
-
-✓ Model Context Protocol (MCP)
-
-✓ LangChain
-
-✓ Prompt Engineering
-
-✓ System Design
-
-✓ Docker
-
-✓ Cloud Deployment
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🧠 Engineering Philosophy
-
-<div align="center">
-
-| Principle | Description |
-|-----------|-------------|
-| 🧩 Build with Purpose | Every project should solve a real-world problem. |
-| 🚀 Learn Continuously | Technology evolves, and so do I. |
-| 🎯 User First | Great software begins with great user experience. |
-| 🤝 Collaboration | The best products are built by great teams. |
-| ⚡ Quality over Quantity | Fewer polished projects are better than many unfinished ones. |
-
-</div>
-
----
-
-> ## 🤖 R.A.Y.A. Insight #001
->
-> "Technology is only valuable when it improves someone's experience. Every project is an opportunity to create that impact."
-
----
-
-<div align="center">
-
-### 💡 "Building software isn't just writing code—it's designing experiences that people remember."
-
-</div>
-
----
-<!-- ========================================================= -->
-<!--                      MISSION LOG                          -->
-<!-- ========================================================= -->
-
-# 📜 Mission Log
-
-> ### 🤖 R.A.Y.A. Career Timeline
->
-> Mission history successfully retrieved.
->
-> Every milestone below represents another step toward becoming a better engineer.
->
-> Growth is measured not only by completed projects, but by continuous learning, collaboration, and real-world problem solving.
-
----
-
-## 🚀 Current Mission
-
-### 🏢 AI MERN Stack Developer Intern
-**Digital Byte Solutions**
-
-📍 India
-
-**Mission Status**
-
-🟢 Active
-
-Currently working on modern web applications powered by Artificial Intelligence and the MERN Stack while collaborating with development teams to build scalable, user-focused digital products.
-
-### Responsibilities
-
-- Building AI-powered web applications
-- Developing Full Stack MERN projects
-- Integrating REST APIs
-- Designing responsive user interfaces
-- Working with Git & GitHub
-- Exploring Prompt Engineering and LLMs
-- Learning production-ready software development practices
-
----
-
-## 🎓 Education
-
-### Bachelor of Technology
-
-**Information Technology**
-
-Successfully completed a Bachelor's degree in Information Technology with a strong interest in software engineering, artificial intelligence, web development, and UI/UX design.
-
----
-
-## 💡 Engineering Journey
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎓 Information Technology Graduate
-
-↓
-
-📱 Android Development
-
-↓
-
-🎨 UI / UX Design
-
-↓
-
-🏆 Hackathons & Team Projects
-
-↓
-
-🌐 Full Stack Development
-
-↓
-
-🤖 Artificial Intelligence
-
-↓
-
-🚀 AI MERN Stack Developer Intern
-
-↓
-
-🧠 Future AI Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 🏆 Milestones
-
-✅ Bachelor's Degree in Information Technology
-
-✅ Built Multiple Academic & Personal Projects
-
-✅ Participated in Online & Offline Hackathons
-
-✅ Developed Full Stack Applications
-
-✅ Worked with Artificial Intelligence
-
-✅ Exploring Modern LLM Ecosystem
-
-✅ Building Production-Level Software
-
----
-
-# 📚 Upgrade Protocol
-
-### Currently Learning
-
-| Priority | Technology | Progress |
-|-----------|------------|----------|
-| ⭐⭐⭐⭐⭐ | Agentic AI | 🟢 Active |
-| ⭐⭐⭐⭐⭐ | RAG Systems | 🟢 Active |
-| ⭐⭐⭐⭐☆ | System Design | 🟢 Active |
-| ⭐⭐⭐⭐☆ | Docker | 🟡 Learning |
-| ⭐⭐⭐⭐☆ | Cloud Deployment | 🟡 Learning |
-| ⭐⭐⭐⭐⭐ | Advanced MERN | 🟢 Active |
-
----
-
-# 🎯 Career Objective
-
-I aspire to become a software engineer capable of designing intelligent, scalable, and impactful applications that combine Artificial Intelligence with modern Full Stack Development.
-
-I believe the best software is created through continuous learning, curiosity, collaboration, and attention to detail.
-
----
-
-> ## 🤖 R.A.Y.A. Insight #002
->
-> "Every completed project is a checkpoint. Every new technology is another mission waiting to be explored."
-
----
-
-<div align="center">
-
-### 🚀 Mission Progress
-
-```text
-Learning ██████████████████████████ 100%
-
-Curiosity ██████████████████████████ 100%
-
-Consistency ███████████████████████░ 95%
-
-Innovation ██████████████████████░░░ 90%
-
-Coffee ☕ ██████████████████████████ ∞
-```
-
-</div>
-
----
-<!-- ========================================================= -->
-<!--                    ANALYTICS CENTER                       -->
-<!-- ========================================================= -->
-
-# 📊 Analytics
-
-> ### 🤖 R.A.Y.A. Analytics Report
->
-> Live engineering metrics synchronized successfully.
->
-> The following insights represent Naman's development activity, programming consistency, and continuous growth across GitHub.
-
----
-
-<div align="center">
-
-## 📈 Development Dashboard
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=Naman-OO7&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-</div>
-
----
-
-<div align="center">
-
-## 🌍 Language Distribution
+<br/><br/>
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Mission Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naman-OO7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📅 Contribution Activity
+<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
+<img src="divider.png" width="100%"/>
 
-# 🎯 Engineering Snapshot
+## Let's Connect
 
-| Category | Current Status |
-|-----------|----------------|
-| 💼 Current Role | AI MERN Stack Developer Intern |
-| 🏢 Organization | Digital Byte Solutions |
-| 🌐 Primary Stack | MERN Stack |
-| 🤖 AI Focus | Prompt Engineering • LLMs • Agentic AI |
-| 🎨 Design | UI / UX Design |
-| 🚀 Current Mission | Building AI Powered Applications |
-| 📚 Learning | RAG • Docker • System Design |
-| 🎯 Goal | Become an AI Software Engineer |
-
----
-
-# ⚡ Mission Objectives
-
-- ✅ Build production-ready AI applications
-- ✅ Master the MERN Stack ecosystem
-- ✅ Learn scalable system design
-- ✅ Contribute to open source
-- ✅ Build developer tools powered by AI
-- ✅ Share knowledge with the community
-
----
-
-# 🧠 R.A.Y.A. Insights
-
-> ### Insight #003
->
-> **"Consistency beats intensity. Great engineers are built through thousands of small improvements rather than one extraordinary breakthrough."**
-
----
-
-> ### Insight #004
->
-> **"The goal isn't to write more code—it's to build software that people genuinely enjoy using."**
-
----
+I'm always open to conversations about full-stack development, applied AI, or new opportunities. Feel free to reach out.
 
 <div align="center">
 
-## 🚀 Mission Status
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Developer            : Naman Singh
-
-AI Assistant         : R.A.Y.A.
-
-Current Status       : ONLINE
-
-Projects             : ACTIVE
-
-Learning             : CONTINUOUS
-
-Innovation           : IN PROGRESS
-
-Future               : UNDER CONSTRUCTION
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:naman.2024it1142@kiet.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/naman-singh-596144213)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-OO7)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### ⭐ "Every contribution is another step toward building meaningful technology."
-
+<img src="footer.png" width="70%" alt="Designed and engineered by Naman Singh"/>
 </div>
 
----
+<div align="right">
+
+[⬆ Back to top](#naman-singh)
+
+</div>
