@@ -23,18 +23,22 @@
 
 ---
 
-> ### 🤖 R.A.Y.A. System Message
->
-> **Good to see you.**
->
-> I've successfully analyzed the profile of **Naman Singh**.
->
-> Naman is currently working as an **AI MERN Stack Developer Intern** at **Digital Byte Solutions**, where he builds intelligent web applications, explores modern AI technologies, and continuously improves his engineering skills.
->
-> This profile is organized as a mission archive—a collection of projects, experiments, and ideas that reflect curiosity, creativity, and a passion for building meaningful software.
->
-> **Mission Status:** 🟢 Active
+```text
+INITIALIZING R.A.Y.A...
 
+████████████████████████████████ 100%
+
+✓ Neural Core Activated
+✓ Mission Archive Loaded
+✓ System Modules Online
+✓ Analytics Synchronized
+✓ Communication Channel Connected
+
+Welcome back, Naman Singh.
+
+System Status : ONLINE
+Current Mission : Building AI-Powered Software
+```
 ---
 
 # 👋 Hello, I'm Naman Singh
