@@ -9,21 +9,6 @@
 <br>
 <br>
 
-# R.A.Y.A.
-
-### **Real-time AI Yielding Assistance**
-
-*A premium AI companion that introduces visitors to my world of software engineering, intelligent systems, and continuous innovation.*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Analyzing+Developer+Profile...;Projects+Indexed...;Technical+Capabilities+Loaded...;Mission+Status:+READY." />
-
-</div>
-
----
-
-```text
 INITIALIZING R.A.Y.A...
 
 ████████████████████████████████ 100%
@@ -38,7 +23,21 @@ Welcome back, Naman Singh.
 
 System Status : ONLINE
 Current Mission : Building AI-Powered Software
-```
+
+<br>
+<br>
+
+# R.A.Y.A.
+
+### **Real-time AI Yielding Assistance**
+
+*A premium AI companion that introduces visitors to my world of software engineering, intelligent systems, and continuous innovation.*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=Analyzing+Developer+Profile...;Projects+Indexed...;Technical+Capabilities+Loaded...;Mission+Status:+READY." />
+
+</div>
 ---
 
 # 👋 Hello, I'm Naman Singh
@@ -85,20 +84,26 @@ Mission Status     : 🟢 ONLINE
 
 </div>
 
-<br>
+# 📡 Communication Channel
+
+> R.A.Y.A. has established secure communication links.
 
 <p align="center">
 
 <a href="mailto:naman.2024it1142@kiet.edu">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.linkedin.com/in/naman-singh-596144213">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/Naman-OO7">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/naive_naman">
+<img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </p>
