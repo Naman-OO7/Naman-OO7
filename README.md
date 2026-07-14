@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="hero-banner.svg" width="100%" alt="R.A.Y.A Hero Banner"/>
+<img src="hero-banner.png" width="100%" alt="R.A.Y.A Hero Banner"/>
 
 <br>
 <br>
