@@ -44,15 +44,17 @@ I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generatio
 
 **Frontend & Backend**
 <br/>
-![](https://skillicons.dev/icons?i=react,nodejs,express)
+![](https://skillicons.dev/icons?i=react,angular,nodejs,express)
 
 **Databases**
 <br/>
-![](https://skillicons.dev/icons?i=mongodb,mysql,firebase)
+![](https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase)
 
 **Design & Tooling**
 <br/>
-![](https://skillicons.dev/icons?i=figma,vscode,git,github,postman,npm)
+![](https://skillicons.dev/icons?i=figma,ai,vscode,git,github,postman,npm) <br/>
+<img src="https://github.com/user-attachments/assets/0eb546db-1990-43a9-8e42-c0d12936cd1e" width="48" height="48" alt="Canva" align="center" />
+<img src="https://cdn.simpleicons.org/sketch/F7B500" width="48" height="48" alt="Sketch" align="center" />
 
 <br/>
 
