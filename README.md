@@ -161,13 +161,19 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 ## Certifications
 
-> ⚠️ **Naman — fill this in:** drop in whatever certifications you actually hold (course, provider, date). Leaving this empty is better than a fake badge that falls apart the moment someone asks about it in an interview.
+<div align="center">
+
+| Certification | Issuer | Focus Area |
+| :--- | :---: | :---: |
+| **Foundations of User Experience (UX) Design** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | UI / UX Design & Prototyping |
+| **HTML and CSS Certification** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | Responsive Frontend Engineering |
+| **Introduction to Android Development** | ![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC3?style=flat-square&logo=infosys&logoColor=white) | Mobile App Architecture |
+| **Crash Course on Python** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Core Scripting & Logic |
+| **Python Basics for Data Science** | ![edX](https://img.shields.io/badge/edX-02262B?style=flat-square&logo=edx&logoColor=white) ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | Data Analysis & Fundamental ML |
+
+</div>
 
 <br/>
-
-## Coding Profiles
-
-> ⚠️ **Naman — fill this in:** your real LeetCode / GeeksforGeeks / HackerRank / CodeChef handles. Once you give me these I can drop in live badges — e.g. `https://leetcode-stats.vercel.app/api?username=<your-handle>` — that pull real numbers automatically instead of static (and eventually stale) ones.
 
 <br/>
 
@@ -187,19 +193,42 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Naman-OO7&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%"/>
-
-</div>
-
-</div>
-
-## Trophies
-
+<br/>
+<br/>
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naman-OO7&theme=discord&no-frame=true&row=1&column=6"/>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+```text
+[ 01 // PRODUCTIVE_TIME_RADAR ]
+```
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-OO7&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Radar"/>
+
+</td>
+
+<td align="center" width="50%">
+
+```text
+[ 02 // PROFILE_ARCH_MATRIX ]
+```
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-OO7&theme=tokyonight" width="100%" alt="Profile Summary Matrix"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -211,13 +240,6 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 </div>
 
-<div align="center">
-
-  <a href="https://github.com/Naman-OO7">
-    <img src="https://github-readme-activity-log.vercel.app/api?username=Naman-OO7&theme=tokyo-night&bg_color=050816&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE&border_radius=12&hide_border=true" width="90%" alt="Naman's Live Activity Stream" />
-  </a>
-
-</div>
 <br/>
 
 ## Current Focus
