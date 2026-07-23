@@ -125,7 +125,7 @@ Android applications built with a focus on clean architecture and Material Desig
 
 Digital product design spanning research, wireframing, and high-fidelity prototyping.
 
-`Figma` · `Adobe XD` · `Canva`
+`Figma` · `Adobe XD` · `Canva` · `Sketch` · `Illustrator` · `Blender` · `Spline` · `...`
 
 </details>
 
@@ -198,7 +198,7 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 ## Productive Time Stats
 
 <p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-OO7&theme=tokyo-night&utcOffset=5.5" />
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-OO7&theme=tokyo-night&utcOffset=5.5" />
 </p>
 
 <br>
@@ -206,7 +206,7 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 ## Profile Matrix
 
 <p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-OO7&theme=tokyo-night" />
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-OO7&theme=tokyo-night" />
 </p>
 
 <br>
