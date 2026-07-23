@@ -210,6 +210,8 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night&hide_border=true"/>
 
+<img src="stats.gif" width="90%"><br/><br/>
+
 </div>
 
 ## Contribution Snake
