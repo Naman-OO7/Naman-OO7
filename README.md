@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech IT](https://img.shields.io/badge/B.Tech-Information%20Technology-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
-![Location](https://img.shields.io/badge/Based%20in-Ghaziabad%2C%20India-6366F1?style=for-the-badge&labelColor=0A0A0A)
+![Location](https://img.shields.io/badge/Based%20in-Noida-UttarPradesh%2C%20India-6366F1?style=for-the-badge&labelColor=0A0A0A)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A)](https://github.com/Naman-OO7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/naman-singh-596144213)
