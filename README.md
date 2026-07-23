@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech IT](https://img.shields.io/badge/B.Tech-Information%20Technology-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
-![Location](https://img.shields.io/badge/Based%20in-Noida-UttarPradesh%2C%20India-6366F1?style=for-the-badge&labelColor=0A0A0A)
+![Location](https://img.shields.io/badge/Based%20in-Noida%2C%20Uttar%20Pradesh%2C%20India-6366F1?style=for-the-badge&labelColor=050816)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A)](https://github.com/Naman-OO7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/naman-singh-596144213)
@@ -188,58 +188,34 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 ## GitHub Analytics
 
-<br/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-OO7&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
-<br/>
-<br/>
-<div align="center">
+## Productive Time Stats
 
-<table>
-<tr>
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-OO7&theme=tokyo-night&utcOffset=5.5" />
+</p>
 
-<td align="center" width="50%">
+<br>
 
-```text
-[ 01 // PRODUCTIVE_TIME_RADAR ]
-```
+## Profile Matrix
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-OO7&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time Radar"/>
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-OO7&theme=tokyo-night" />
+</p>
 
-</td>
-
-<td align="center" width="50%">
-
-```text
-[ 02 // PROFILE_ARCH_MATRIX ]
-```
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-OO7&theme=tokyonight" width="100%" alt="Profile Summary Matrix"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-</div>
-
-</div>
-
-</div>
-
-</div>
+<br>
 
 ## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night&hide_border=true" />
+</p>
 <br/>
 
 ## Current Focus
