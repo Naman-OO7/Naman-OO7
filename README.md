@@ -182,17 +182,16 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 ## GitHub Analytics
 
-## ⚡️ Stats
+<br/>
 
-<br>
+<div align="center">
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Naman-OO7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Naman-OO7&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-OO7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%"/>
+
 </div>
-
-<hr>
 
 </div>
 
@@ -210,43 +209,15 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-OO7&theme=tokyo-night&hide_border=true"/>
 
-<img src="stats.gif" width="90%"><br/><br/>
-
 </div>
-
-## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Naman-OO7/Naman-OO7/output/github-contribution-grid-snake-dark.svg"/>
+  <a href="https://github.com/Naman-OO7">
+    <img src="https://github-readme-activity-log.vercel.app/api?username=Naman-OO7&theme=tokyo-night&bg_color=050816&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE&border_radius=12&hide_border=true" width="90%" alt="Naman's Live Activity Stream" />
+  </a>
 
 </div>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup (it's not automatic). Add this as `.github/workflows/snake.yml` in your `Naman-OO7/Naman-OO7` repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Naman-OO7
->           outputs: dist/github-contribution-grid-snake-dark.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 <br/>
 
 ## Current Focus
