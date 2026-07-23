@@ -181,6 +181,7 @@ Building AI-integrated web applications on the MERN stack in a collaborative tea
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Active-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-Active-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Active-8B5CF6?style=for-the-badge&labelColor=0A0A0A)
 ![System Design](https://img.shields.io/badge/System%20Design-Active-6366F1?style=for-the-badge&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-Learning-647488?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 
