@@ -31,7 +31,7 @@ I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generatio
 - 🔭 Currently building AI-powered web applications on the MERN stack
 - 🌱 Currently learning Agentic AI, RAG, System Design, and Docker
 - 💬 Ask me about React, Node.js, MERN architecture, or applied LLM integration
-- 🎓 B.Tech, Information Technology.
+- 🎓 B.Tech, Information Technology
 - 📫 Reach me at **naman.2024it1142@kiet.edu**
 
 <br/>
