@@ -36,7 +36,7 @@ I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generatio
 
 <br/>
 
-## Tech Stack
+## Tech Stack.
 
 **Languages**
 <br/>
