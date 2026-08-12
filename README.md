@@ -24,7 +24,7 @@
 
 ## About Me.
 
-I'm an **AI MERN Stack Developer Intern** at **Digital Byte Solutions**, building full-stack web applications with an increasing focus on AI-integrated systems. My path started in Android development and UI/UX design before moving into full-stack engineering and applied AI — I care about writing production-quality code and designing experiences that are genuinely easy to use.
+I'm an **AI MERN Stack Developer Intern** at **Digital Byte Solutions**, building full-stack web applications with an increasing focus on AI-integrated systems. My path started in Android development and UI/UX design before moving into full-stack engineering and applied AI — I care about writing production-quality code and designing experiences that are genuinely easy to use..
 
 I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generation (RAG), and system design**, with the goal of building software that combines technical rigor with real usability..
 
