@@ -28,7 +28,7 @@ I'm an **AI MERN Stack Developer Intern** at **Digital Byte Solutions**, buildin
 
 I'm currently deepening my skills in **agentic AI, Retrieval-Augmented Generation (RAG), and system design**, with the goal of building software that combines technical rigor with real usability.
 
-- 🔭 Currently building AI-powered web applications on the MERN stack.
+- 🔭 Currently building AI-powered web applications on the MERN stack
 - 🌱 Currently learning Agentic AI, RAG, System Design, and Docker
 - 💬 Ask me about React, Node.js, MERN architecture, or applied LLM integration
 - 🎓 B.Tech, Information Technology
